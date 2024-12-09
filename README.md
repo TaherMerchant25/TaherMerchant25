@@ -4,12 +4,12 @@
 🌱 Currently exploring Open Source 
 ✨ Passionate about:
 
-🛠️ Robotics
-🌐 Augmented Reality (AR)
-💡 Innovative Projects
+1) 🛠️ Robotics
+2) 🌐 Augmented Reality (AR)
+3) 💡 Innovative Projects
 💻 Tech Stack:
-🤖 Machine Learning Basics
-🚀R.O.S.(Robotics Operating System)
+1) 🤖 Machine Learning Basics
+2) 🚀R.O.S.(Robotics Operating System)
 
 Programming: 🐍 Python, C
 🌟 Striving to learn, build, and innovate every day! Let's connect and collaborate!
