@@ -9,15 +9,13 @@
 
 - 🔭 I’m currently working on [Algorithm Trading Techniques](https://github.com/ghostiee-11/ALPHAVANTAGE_JAiNWIN.git)
 
-- 🌱 I’m currently learning **about GANS as well as about frontend development frameworks like react and many more...**
+- 🌱 I’m currently learning **about GAN's as well as, frontend development frameworks like ReactJS**
 
 - 👯 I’m looking to collaborate on [EmpatheticAI](https://github.com/TaherMerchant25/EmpatheticAI.git)
 
-- 💬 Ask me about **ANN's and NLP techniques**
-
 - 📫 How to reach me **tahermerchant2005@gmail.com**
 
-- ⚡ Fun fact **I think I am a Cutie**
+- ⚡ Fun fact **I think I am a Cutie❤️**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
