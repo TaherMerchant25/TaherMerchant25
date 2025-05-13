@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **tahermerchant2005@gmail.com**
 
-- ⚡ Fun fact **I think I am a Cutie❤️**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
