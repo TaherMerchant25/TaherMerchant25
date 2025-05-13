@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Algorithm Trading Techniques](https://github.com/ghostiee-11/ALPHAVANTAGE_JAiNWIN.git)
 
-- 🌱 I’m currently learning **about Machine learning and frontend development**
+- 🌱 I’m currently learning **about Machine learning, Robotics and Quantitative trading**
 
 - 👯 I’m looking to collaborate on [EmpatheticAI](https://github.com/TaherMerchant25/EmpatheticAI.git)
 
