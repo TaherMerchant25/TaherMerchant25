@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taher Merchant</h1>
 
 
-<h3 align="center">A passionate and Aspiring AI/ML Engineer from Delhi College of Engineering, India.</h3>
+<h3 align="center">A passionate and Aspiring AI/ML learner from Delhi College of Engineering, India.</h3>
 
 
 
