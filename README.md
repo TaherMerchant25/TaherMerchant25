@@ -1,7 +1,7 @@
 
 <div align="center">
   <!-- Futuristic animated header -->
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World!;Crafting+Digital+Experiences;Abhinav+Here&center=true&width=500&height=60&color=0F0&vCenter=true&pause=1000" alt="Futuristic Header">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World!;Crafting+Digital+Experiences;Taher+Here&center=true&width=500&height=60&color=0F0&vCenter=true&pause=1000" alt="Futuristic Header">
   <img src="https://i.pinimg.com/originals/59/e1/8f/59e18f5ab8f18d6c6d2c8a6a7f0d5e7e.gif" alt="App Development Animation" style="width:100%;">
 </div>
 <div align="center">
@@ -65,7 +65,7 @@ HOSTING              ██████████████░░░░░�
 ```
 <!-- Stats Section -->
 GitHub Analysis
-<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TaherMerchant25&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" /> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TaherMerchant25&theme=radical&utcOffset=8" /> </div><!-- Contribution Graph --><img src="https://github-readme-activity-graph.vercel.app/graph?username=TaherMerchant25&custom_title=Abhinav's%20Contribution%20Graph&bg_color=0D1117&color=89E2E3&line=89E2E3&point=89E2E3&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Activity Graph"><!-- Technologies -->
+<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TaherMerchant25&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" /> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TaherMerchant25&theme=radical&utcOffset=8" /> </div><!-- Contribution Graph --><img src="https://github-readme-activity-graph.vercel.app/graph?username=TaherMerchant25&custom_title=Taher's%20Contribution%20Graph&bg_color=0D1117&color=89E2E3&line=89E2E3&point=89E2E3&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Activity Graph"><!-- Technologies -->
 Development Stack
 <!-- Updated Combined Skill Icons -->
 <!-- 6x3 Grid of Skill Icons -->
